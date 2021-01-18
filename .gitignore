@@ -22,5 +22,4 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-#Config
-src/js/firebase.js
+
